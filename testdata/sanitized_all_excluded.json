@@ -1,0 +1,25 @@
+{
+    "latitude": 40.7128,
+    "longitude": -74.0059,
+    "timezone": "America/New_York",
+    "offset": -5.0,
+    "elevation": 62,
+    "flags": {
+        "sources": [
+            "ETOPO1",
+            "gfs",
+            "gefs",
+            "hrrrsubh",
+            "hrrr"
+        ],
+        "sourceTimes": {
+            "hrrr_0-18": "2023-01-24 04:00:00",
+            "hrrr_subh": "2023-01-24 04:00:00",
+            "hrrr_18-48": "2023-01-24 00:00:00",
+            "gfs": "2023-01-24 00:00:00",
+            "gefs": "2023-01-23 18:00:00"
+        },
+        "units": "us",
+        "version": "V1.2.0"
+    }
+}
