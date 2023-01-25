@@ -1,7 +1,8 @@
 # go-pirateweather
 
-
 A [Pirate Weather](https://pirateweather.net) API client in Go.
+
+<img align="right" alt="go-pirateweather logo" src="https://user-images.githubusercontent.com/2343437/214456395-74a98129-32dd-4cc5-b83f-e1e8ae89d9c7.png" width="350">
 
  ## Installing
 
