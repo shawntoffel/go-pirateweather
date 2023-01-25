@@ -276,7 +276,7 @@
         "icon": "cloudy",
         "data": [
             {
-                "time": 1674536400.0,
+                "time": 1674536400,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -293,7 +293,7 @@
                 "ozone": 324.76
             },
             {
-                "time": 1674540000.0,
+                "time": 1674540000,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -310,7 +310,7 @@
                 "ozone": 321.45
             },
             {
-                "time": 1674543600.0,
+                "time": 1674543600,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -327,7 +327,7 @@
                 "ozone": 324.87
             },
             {
-                "time": 1674547200.0,
+                "time": 1674547200,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -344,7 +344,7 @@
                 "ozone": 330.13
             },
             {
-                "time": 1674550800.0,
+                "time": 1674550800,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -361,7 +361,7 @@
                 "ozone": 332.85
             },
             {
-                "time": 1674554400.0,
+                "time": 1674554400,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -378,7 +378,7 @@
                 "ozone": 330.74
             },
             {
-                "time": 1674558000.0,
+                "time": 1674558000,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -395,7 +395,7 @@
                 "ozone": 330.1
             },
             {
-                "time": 1674561600.0,
+                "time": 1674561600,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -412,7 +412,7 @@
                 "ozone": 328.29
             },
             {
-                "time": 1674565200.0,
+                "time": 1674565200,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -430,7 +430,7 @@
                 "ozone": 337.8
             },
             {
-                "time": 1674568800.0,
+                "time": 1674568800,
                 "icon": "clear-day",
                 "summary": "Clear",
                 "precipType": "none",
@@ -448,7 +448,7 @@
                 "ozone": 336.84
             },
             {
-                "time": 1674572400.0,
+                "time": 1674572400,
                 "icon": "clear-day",
                 "summary": "Clear",
                 "precipType": "none",
@@ -466,7 +466,7 @@
                 "ozone": 330.31
             },
             {
-                "time": 1674576000.0,
+                "time": 1674576000,
                 "icon": "clear-day",
                 "summary": "Clear",
                 "precipType": "none",
@@ -484,7 +484,7 @@
                 "ozone": 328.28
             },
             {
-                "time": 1674579600.0,
+                "time": 1674579600,
                 "icon": "clear-day",
                 "summary": "Clear",
                 "precipType": "none",
@@ -502,7 +502,7 @@
                 "ozone": 326.44
             },
             {
-                "time": 1674583200.0,
+                "time": 1674583200,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -520,7 +520,7 @@
                 "ozone": 325.51
             },
             {
-                "time": 1674586800.0,
+                "time": 1674586800,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -538,7 +538,7 @@
                 "ozone": 325.96
             },
             {
-                "time": 1674590400.0,
+                "time": 1674590400,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -556,7 +556,7 @@
                 "ozone": 327.38
             },
             {
-                "time": 1674594000.0,
+                "time": 1674594000,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -574,7 +574,7 @@
                 "ozone": 328.23
             },
             {
-                "time": 1674597600.0,
+                "time": 1674597600,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -592,7 +592,7 @@
                 "ozone": 327.18
             },
             {
-                "time": 1674601200.0,
+                "time": 1674601200,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -609,7 +609,7 @@
                 "ozone": 328.64
             },
             {
-                "time": 1674604800.0,
+                "time": 1674604800,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -627,7 +627,7 @@
                 "ozone": 328.74
             },
             {
-                "time": 1674608400.0,
+                "time": 1674608400,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -644,7 +644,7 @@
                 "ozone": 328.38
             },
             {
-                "time": 1674612000.0,
+                "time": 1674612000,
                 "icon": "clear-night",
                 "summary": "Clear",
                 "precipType": "none",
@@ -661,7 +661,7 @@
                 "ozone": 321.5
             },
             {
-                "time": 1674615600.0,
+                "time": 1674615600,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -678,7 +678,7 @@
                 "ozone": 319.8
             },
             {
-                "time": 1674619200.0,
+                "time": 1674619200,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -695,7 +695,7 @@
                 "ozone": 325.52
             },
             {
-                "time": 1674622800.0,
+                "time": 1674622800,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -712,7 +712,7 @@
                 "ozone": 326.25
             },
             {
-                "time": 1674626400.0,
+                "time": 1674626400,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -729,7 +729,7 @@
                 "ozone": 326.31
             },
             {
-                "time": 1674630000.0,
+                "time": 1674630000,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -746,7 +746,7 @@
                 "ozone": 327.26
             },
             {
-                "time": 1674633600.0,
+                "time": 1674633600,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -763,7 +763,7 @@
                 "ozone": 327.26
             },
             {
-                "time": 1674637200.0,
+                "time": 1674637200,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -780,7 +780,7 @@
                 "ozone": 330.08
             },
             {
-                "time": 1674640800.0,
+                "time": 1674640800,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -797,7 +797,7 @@
                 "ozone": 330.97
             },
             {
-                "time": 1674644400.0,
+                "time": 1674644400,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -814,7 +814,7 @@
                 "ozone": 326.1
             },
             {
-                "time": 1674648000.0,
+                "time": 1674648000,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipType": "none",
@@ -831,7 +831,7 @@
                 "ozone": 324.83
             },
             {
-                "time": 1674651600.0,
+                "time": 1674651600,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipIntensity": 0.0005,
@@ -852,7 +852,7 @@
                 "ozone": 323.42
             },
             {
-                "time": 1674655200.0,
+                "time": 1674655200,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipIntensity": 0.001,
@@ -873,7 +873,7 @@
                 "ozone": 320.84
             },
             {
-                "time": 1674658800.0,
+                "time": 1674658800,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipIntensity": 0.0015,
@@ -894,7 +894,7 @@
                 "ozone": 315.47
             },
             {
-                "time": 1674662400.0,
+                "time": 1674662400,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipIntensity": 0.0053,
@@ -916,7 +916,7 @@
                 "ozone": 308.86
             },
             {
-                "time": 1674666000.0,
+                "time": 1674666000,
                 "icon": "cloudy",
                 "summary": "Cloudy",
                 "precipIntensity": 0.0091,
@@ -938,7 +938,7 @@
                 "ozone": 304.66
             },
             {
-                "time": 1674669600.0,
+                "time": 1674669600,
                 "icon": "snow",
                 "summary": "Snow",
                 "precipIntensity": 0.013,
@@ -960,7 +960,7 @@
                 "ozone": 301.01
             },
             {
-                "time": 1674673200.0,
+                "time": 1674673200,
                 "icon": "snow",
                 "summary": "Snow",
                 "precipIntensity": 0.026,
@@ -982,7 +982,7 @@
                 "ozone": 298.45
             },
             {
-                "time": 1674676800.0,
+                "time": 1674676800,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.0391,
@@ -1004,7 +1004,7 @@
                 "ozone": 296.68
             },
             {
-                "time": 1674680400.0,
+                "time": 1674680400,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.0522,
@@ -1026,7 +1026,7 @@
                 "ozone": 296.46
             },
             {
-                "time": 1674684000.0,
+                "time": 1674684000,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.063,
@@ -1048,7 +1048,7 @@
                 "ozone": 297.38
             },
             {
-                "time": 1674687600.0,
+                "time": 1674687600,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.0739,
@@ -1069,7 +1069,7 @@
                 "ozone": 297.19
             },
             {
-                "time": 1674691200.0,
+                "time": 1674691200,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.0847,
@@ -1090,7 +1090,7 @@
                 "ozone": 297.68
             },
             {
-                "time": 1674694800.0,
+                "time": 1674694800,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.0994,
@@ -1111,7 +1111,7 @@
                 "ozone": 298.01
             },
             {
-                "time": 1674698400.0,
+                "time": 1674698400,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.114,
@@ -1132,7 +1132,7 @@
                 "ozone": 299.02
             },
             {
-                "time": 1674702000.0,
+                "time": 1674702000,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.1287,
@@ -1153,7 +1153,7 @@
                 "ozone": 297.15
             },
             {
-                "time": 1674705600.0,
+                "time": 1674705600,
                 "icon": "rain",
                 "summary": "Rain",
                 "precipIntensity": 0.1106,

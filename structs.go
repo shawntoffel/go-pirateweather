@@ -76,7 +76,7 @@ type DataPoint struct {
 	TemperatureMaxTime          int64   `json:"temperatureMaxTime,omitempty"`
 	TemperatureMin              float64 `json:"temperatureMin,omitempty"`
 	TemperatureMinTime          int64   `json:"temperatureMinTime,omitempty"`
-	Time                        float64 `json:"time,omitempty"`
+	Time                        int64   `json:"time,omitempty"`
 	UvIndex                     float64 `json:"uvIndex,omitempty"`
 	UvIndexTime                 int64   `json:"uvIndexTime,omitempty"`
 	Visibility                  float64 `json:"visibility,omitempty"`
@@ -120,6 +120,7 @@ type ErrorResponse struct {
 	Help         string `json:"Help,omitempty"`
 }
 
+// RestError has both http response & deserialized content error details.
 type RestError struct {
 	Response      *http.Response
 	ErrorResponse *ErrorResponse
