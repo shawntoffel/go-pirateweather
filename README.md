@@ -50,8 +50,8 @@ response, err := client.Forecast(ctx, apiToken, request)
 
 ## Documentation
 - [![Go Reference](https://pkg.go.dev/badge/github.com/shawntoffel/go-pirateweather.svg)](https://pkg.go.dev/github.com/shawntoffel/go-pirateweather) 
-- [Getting Started](https://pirateweather.net/getting-started)
-- [API](https://docs.pirateweather.net/en/latest/)
+- [Getting Started](https://pirateweather.net/en/latest/)
+- [API](https://pirateweather.net/en/latest/API/)
 
 ## Examples
 - [Simple forecast](https://github.com/shawntoffel/go-pirateweather/tree/master/examples/simple/main.go)
